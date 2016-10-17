@@ -1,0 +1,5 @@
+C:\Users\Stranger\Dropbox\IFMO\2 курс\4 семестр\Проектирование баз данных\SqlStackSelect\SqlStackSelect\bin\Debug\SqlStackSelect.dll
+C:\Users\Stranger\Dropbox\IFMO\2 курс\4 семестр\Проектирование баз данных\SqlStackSelect\SqlStackSelect\bin\Debug\SqlStackSelect.pdb
+C:\Users\Stranger\Dropbox\IFMO\2 курс\4 семестр\Проектирование баз данных\SqlStackSelect\SqlStackSelect\obj\Debug\SqlStackSelect.csprojResolveAssemblyReference.cache
+C:\Users\Stranger\Dropbox\IFMO\2 курс\4 семестр\Проектирование баз данных\SqlStackSelect\SqlStackSelect\obj\Debug\SqlStackSelect.dll
+C:\Users\Stranger\Dropbox\IFMO\2 курс\4 семестр\Проектирование баз данных\SqlStackSelect\SqlStackSelect\obj\Debug\SqlStackSelect.pdb
